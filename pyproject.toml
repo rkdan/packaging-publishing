@@ -1,5 +1,5 @@
 [project]
-name = "cancer-prediction-rkd43"
+name = "cancer-prediction"
 version = "0.1.0"
 description = "A basic model to predict cancer"
 authors = [
